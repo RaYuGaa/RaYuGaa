@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/RaYuGaa](github.com/RaYuGaa)
 
-- 💬 Ask me about **Web development and Security**
+- 💬 Ask me about **Web Development and Security**
 
 - 📫 How to reach me **rayuganub69@gmail.com**
 
